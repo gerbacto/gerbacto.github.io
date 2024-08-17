@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gerbacto.github.io/sitemap.html.gz
+Sitemap: https://gerbacto.github.io/app/sitemap.html.gz
+Sitemap: https://gerbacto.github.io/assets/sitemap.html.gz
+Sitemap: https://gerbacto.github.io/css/sitemap.html.gz
+Sitemap: https://gerbacto.github.io/includes/sitemap.html.gz
+Sitemap: https://gerbacto.github.io/item/sitemap.html.gz
+Sitemap: https://gerbacto.github.io/src/sitemap.html.gz
